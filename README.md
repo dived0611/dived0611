@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Hamza El Hassnaoui!
 
-<!--
-**dived0611/dived0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from Morocco 🇲🇦.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, HTML/CSS
+- **Tools:** Git, VS Code
+- **Frameworks:** React, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-handle)
+- Email: youremail@example.com
+
+Thanks for stopping by! 🚀
